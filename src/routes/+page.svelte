@@ -1,7 +1,6 @@
 <svelte:head>
     <title>Ефанин Николай</title>
 </svelte:head>
-
 <div class='container'>
     <div class="info">
         <div class="animate-background">
