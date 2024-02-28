@@ -63,7 +63,7 @@
     }
 
     .info h2 {
-        max-width: 65 ch;
+        max-width: 65ch;
         font-weight: 200;
         margin-top: 0.50rem;
     }
