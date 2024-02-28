@@ -66,7 +66,7 @@
     .info h2 {
         max-width: 65 ch;
         font-weight: 200;
-        margin-top: 0.50re,;
+        margin-top: 0.50rem;
     }
 
     .background-div {
